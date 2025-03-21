@@ -1,6 +1,6 @@
 # Added new parameters and resources
-# Revision 3
-# 3/21/2025
+# Revision 2
+# 3/16/2025
 AWSTemplateFormatVersion: "2010-09-09"
 Description: Amazon Elastic Compute Cloud (EC2) Template
 
